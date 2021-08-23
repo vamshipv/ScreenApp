@@ -9,3 +9,4 @@ Features
 - Add Project Deatils 
 - Auto Completion for Search Bar
 - Slider for Project Priority
+- Client Side Validation using JQuery
